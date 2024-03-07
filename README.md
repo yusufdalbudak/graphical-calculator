@@ -16,7 +16,7 @@ Before you begin, ensure you have installed Python 3.6 or higher on your system.
 # Installation
 
 # Clone the Repository:
-'git clone https://github.com/yusufdalbudak/graphical-function-plotter.git'
+'git clone https://github.com/yusufdalbudak/graphical-calculator/blob/main/graphical-calculator.py'
 'cd graphical-function-plotter'
 
 # Install Required Libraries
