@@ -17,7 +17,7 @@ Before you begin, ensure you have installed Python 3.6 or higher on your system.
 
 # Clone the Repository:
 'git clone https://github.com/yusufdalbudak/graphical-calculator/blob/main/graphical-calculator.py'
-'cd graphical-function-plotter'
+'cd graphical-calculator.py'
 
 # Install Required Libraries
  'pip install matplotlib numpy' (type this in terminal)
